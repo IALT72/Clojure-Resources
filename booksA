@@ -1,0 +1,14 @@
+# Stage the changed markdown files
+git add README.md
+git add resources/books.md
+
+# Commit with detailed message
+git commit -m "docs: expand Clojure books and learning materials
+
+- Add 'Elements of Clojure' by Zach Tellman to advanced books
+- Include 'Clojure Reactive Programming' in intermediate section
+- Add free online books with direct download links
+- Organize books by publication year and relevance
+- Include brief summaries and difficulty ratings
+
+This update provides a more comprehensive reading list for Clojure developers at all levels."
